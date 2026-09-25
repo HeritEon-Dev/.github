@@ -21,5 +21,6 @@ independent work on algorithms and development tools.
 
 ## Contact
 
-[heriteon.com](https://heriteon.com) ·
-[office@heriteon.com](mailto:office@heriteon.com)
+[Website](https://heriteon.com) ·
+[LinkedIn](https://www.linkedin.com/company/heriteon/) ·
+[Email](mailto:office@heriteon.com)
